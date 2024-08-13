@@ -269,7 +269,7 @@ nav:
   - 4.基础组件软件库:     
     - PWM_开发指南:
       - 概述与介绍: 'SdkModule/Linux_PWM_DevelopmentGuide-01.md' 
-      - 模块描述:  'SdkModule/Linux_PWM_DevelopmentGuide-01.md' 
+      - 模块描述:  'SdkModule/Linux_PWM_DevelopmentGuide-02.md' 
     - MPP_sample_使用说明:
       - 简述: 'SdkModule/Linux_MPP_Sample_Instructions-01.md' 
       - 配置编译测试: 'SdkModule/Linux_MPP_Sample_Instructions-02.md' 
