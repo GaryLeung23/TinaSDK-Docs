@@ -1,13 +1,13 @@
 # Project information
 site_name: 全志Linux Tina-SDK开发完全手册
-site_url: https://github.com/DongshanPI/TinaSDK-Docs.git
-site_author: 100askTeam
+site_url: https://github.com/GaryLeung23/TinaSDK-Docs.git
+site_author: GaryLeung
 site_description: >-
   Tina SDK Docs Start Page.
-copyright: Copyright &copy; 2008 - 2022 100ask Team
+copyright: Copyright &copy; GaryLeung
 edit_uri: edit/master/docs/
-repo_url: https://github.com/DongshanPI/TinaSDK-Docs/
-repo_name: DongshanPI/TinaSDK-Docs
+repo_url: https://github.com/GaryLeung23/TinaSDK-Docs/
+repo_name: GaryLeung23/TinaSDK-Docs
 
 # Configuration
 theme:
